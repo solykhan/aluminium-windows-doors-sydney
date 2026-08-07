@@ -8,8 +8,8 @@ export default function Contact() {
   return (
     <main className="container-x py-12">
       <SEO
-        title="Contact CWD Sydney — Aluminium Windows & Doors Quote | 0406 900 614"
-        description="Contact CWD Commercial Windows and Doors Sydney for a free measure and fixed quote on aluminium windows and doors. Call 0406 900 614. Servicing 33 Eastern Suburbs."
+        title="Contact CWD Sydney — Aluminium Windows & Doors Quote | 0498 062 783"
+        description="Contact CWD Commercial Windows and Doors Sydney for a free measure and fixed quote on aluminium windows and doors. Call 0498 062 783. Servicing 33 Eastern Suburbs."
         path="/contact"
         keywords="aluminium windows quote sydney, aluminium doors quote sydney, glazier contact sydney, free measure quote windows"
         jsonLd={[

@@ -1,9 +1,9 @@
 export const SITE = {
   name: "CWD Commercial Windows and Doors Sydney",
   shortName: "CWD Sydney",
-  phone: "+61406900614",
-  phoneDisplay: "0406 900 614",
-  phoneLink: "tel:+61406900614",
+  phone: "+61498062783",
+  phoneDisplay: "0498 062 783",
+  phoneLink: "tel:+61498062783",
   url: "https://aluminiumwindowsanddoorssydney.com",
   mapUrl: "https://maps.app.goo.gl/2nHNFsy8zoWkm2TMA",
   mapEmbed:

@@ -47,7 +47,7 @@ export default function Home() {
     <main>
       <SEO
         title="Aluminium Windows and Doors in Sydney | CWD Commercial Windows and Doors Sydney"
-        description="CWD supplies & installs aluminium windows and doors across Sydney — bifold, sliding, pivot, frameless doors; awning, louvre, double glazed & BAL-40 windows. Free measure & quote. Call 0406 900 614."
+        description="CWD supplies & installs aluminium windows and doors across Sydney — bifold, sliding, pivot, frameless doors; awning, louvre, double glazed & BAL-40 windows. Free measure & quote. Call 0498 062 783."
         path="/"
         keywords="aluminium windows and doors sydney, aluminium windows sydney, aluminium doors sydney, bifold doors sydney, double glazed windows sydney, aluminium windows eastern suburbs"
         jsonLd={[

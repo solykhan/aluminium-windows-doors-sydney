@@ -19,7 +19,7 @@ export default function AreaPage() {
     <main className="container-x py-12">
       <SEO
         title={`Windows & Doors ${suburb.name} | Commercial Glazing — CWD Sydney`}
-        description={`CWD supplies & installs aluminium windows and doors in ${suburb.name} — bifold doors, sliding doors, double glazed windows, servery windows & more. Free measure & quote in ${suburb.name}. Call 0406 900 614.`}
+        description={`CWD supplies & installs aluminium windows and doors in ${suburb.name} — bifold doors, sliding doors, double glazed windows, servery windows & more. Free measure & quote in ${suburb.name}. Call 0498 062 783.`}
         path={`/areas/${suburb.slug}`}
         keywords={`aluminium windows ${suburb.name.toLowerCase()}, aluminium doors ${suburb.name.toLowerCase()}, glazier ${suburb.name.toLowerCase()}, windows and doors ${suburb.name.toLowerCase()}, window replacement ${suburb.name.toLowerCase()}`}
         jsonLd={[
